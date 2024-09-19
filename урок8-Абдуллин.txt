@@ -1,0 +1,50 @@
+#include<iostream>
+using namespace std;
+
+
+int main()
+{ 
+	int int1 = 15;
+	int int2 = 20;
+	int int3 = 15;
+	int int4 = 20;
+
+
+     cout << "int1 " << int1 << " int2 " << int2 << endl;
+/*	while (int1!=int2) {
+	    int1++;
+	
+	}
+*/    cout << "int1 " << int1 << " int2 " << int2 << endl;
+	int int5 = 44;
+	int int6 = 35;
+/*    cout << "int5 " << int5 << " int6 " << int6 << endl;
+	while (int5>int6) {
+	    int6++;
+	   
+	}
+        cout << "int5 " << int5 << " int6 " << int6 << endl;
+*/
+
+/*     cout << "int1 " << int1 << " int2 " << int2 << endl;
+	while (int1<int2) {
+	    int1++;
+	}
+*/
+
+/*      cout << "int5 " << int5 << " int6 " << int6 << endl;
+	while (int5>=int6) {
+	    int6++;
+	   
+	}
+*/
+
+/*      cout << "int1 " << int1 << " int2 " << int2 << endl;
+	while (int1<=int2) {
+	    int1++;
+	    
+	}
+*/
+
+
+	}
